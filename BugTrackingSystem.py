@@ -1,6 +1,5 @@
 import db
 import mysql.connector
-from flask import Flask, render_template
 
 # Establish database connection
 def admin_module():
